@@ -14,3 +14,13 @@ Add your custom styles below
 section.hidden-xs.bg--secondary {
   padding-top: 75px !important;
 }
+
+
+@media all and (max-width: 767px){
+
+.masonry__item {
+	width: 100%;
+	max-width: 100%;
+}
+
+}
