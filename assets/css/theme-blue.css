@@ -7772,7 +7772,7 @@ footer .logo {
   }
 }
 .footer-3 {
-  padding: 4.875em 0;
+  /*padding: 4.875em 0;*/
   overflow: hidden;
 }
 .footer-3 div[class*='col-']:first-child {
